@@ -1,0 +1,10 @@
+{
+  "name":"node-app-detector",
+  "version":"0.1.0",
+  "description": "Node.js application type detector inspired by CloudFoundry's VMC client",
+  "dependencies":{
+     "async":"0.1.x",
+      "nodeunit": "0.7.x",
+      "asyncjs": "0.0.6"
+  }
+}
